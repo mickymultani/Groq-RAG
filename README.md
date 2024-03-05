@@ -1,5 +1,8 @@
 # Ultra-Fast RAG Chatbot with Groq's LPU
 
+![groq-RAG](https://github.com/mickymultani/Groq-RAG/assets/42827572/834ef7e6-f2af-42db-a0ca-55c3dae23ecd)
+
+
 Let's build an ultra-fast RAG Chatbot using Groq's Language Processing Unit (LPU), LangChain, and Ollama. This project is designed to provide users with the ability to interactively query PDF documents, leveraging the unprecedented speed of Groq's specialized hardware for language models.
 
 ## Introduction
